@@ -6,4 +6,10 @@ print("touch it")
 
 print("good morning")
 
-#yes
+#yess
+
+#today we are going to work on our new project
+print("yes it is me")
+
+
+#yes look at it in the different ways
